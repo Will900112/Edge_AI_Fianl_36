@@ -1,4 +1,4 @@
-# Edge_AI_Fianl_36
+# LLaMA-3B Edge Acceleration
 
 ## Abstract
 This repository contains a complete reproducible pipeline for:
