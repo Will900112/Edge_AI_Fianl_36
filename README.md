@@ -1,4 +1,4 @@
-# LLaMA-3B Edge Acceleration
+# LLaMA-3B Acceleration
 
 ## Abstract
 This repository contains a complete reproducible pipeline for:
